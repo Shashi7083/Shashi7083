@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashi Ranjan Kumar
-- 👀 I’m interested in Coding and Android App Development
-- 🌱 I’m currently learning ...Different Languages
+- 👀 I’m Android App Developer
+- 🌱 I’m currently making projects of Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashi Ranjan Kumar
-- 👀 I’m Android App Developer and Ui/Ux Designer
-- 🌱 I’m currently making projects of Android Development in Jetpack Compose
+- 👀 I’m Mobile App Developer and Ui/Ux Designer
+- 🌱 I’m currently making projects of Android Development in  Compose Multiplatform (Android & Ios) & Jetpack Compose ( Android )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

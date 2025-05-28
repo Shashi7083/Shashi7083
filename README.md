@@ -44,12 +44,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashiRanjanKumar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashiRanjanKumar&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashi7083r&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi7083&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashiRanjanKumar&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi7083&theme=tokyo-night" />
 </p>
 
 ---

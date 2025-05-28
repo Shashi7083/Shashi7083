@@ -8,12 +8,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Spring%20Boot%20Backend-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-iOS%20Developer-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React%20Learner-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot%20Developer-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20App%20Development-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
+
 
 ---
 

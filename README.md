@@ -54,6 +54,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi7083&theme=tokyo-night" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashi7083&theme=tokyonight&row=1"/>
+</p>
+
 ---
 
 ### 📫 Connect with Me

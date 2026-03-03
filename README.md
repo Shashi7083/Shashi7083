@@ -3,7 +3,7 @@
 <h1 align="center">Hey there! 👋 I'm Shashi Ranjan Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+App+Developer+(Android+%26+iOS);Spring+Boot+Backend+Developer;React+Frontend+Learner;Always+Learning+New+Things!&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+App+Developer+(Android+%26+iOS);Spring+Boot+Backend+Developer;Django+Learner;Always+Learning+New+Things!&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 ---
